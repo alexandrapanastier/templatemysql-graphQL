@@ -2,6 +2,7 @@ import { ApolloServer } from 'apollo-server';
 import  typeDefs  from './schema';
 import { connectToDatabase } from './database';
 import resolvers from './resolvers';
+
 async function startServer() {
   try {
     // Connexion à la base de données
