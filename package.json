@@ -1,0 +1,20 @@
+{
+  "name": "projectsqlgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.7.3",
+    "dotenv": "^16.1.4",
+    "graphql": "^16.6.0",
+    "mysql2": "^3.3.3",
+    "typescript": "^5.1.3",
+    "apollo-server": "^3.12.0"
+  }
+}
